@@ -6,6 +6,8 @@ These templates offer a starting point for your Lift-based project.
 
 If you want to start with Scala 2.9.1, use the templates in the scala_29 directory
 
+If you want to start with Scala 2.10.1, use the templates in the scala_210 directory
+
 ##Getting started.
 
 Most people will want to start with the `lift_basic` template. This template shows you how to use:
